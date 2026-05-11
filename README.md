@@ -1,6 +1,6 @@
 # RaicesCreativas
 git init
-git add raices-creativas-mejorada.html
+git add index.html
 git commit -m "primer commit"
 git branch -M main
 git remote add origin https://github.com/iamphasma3/raices-creativas.git
